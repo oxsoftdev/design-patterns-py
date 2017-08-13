@@ -6,7 +6,7 @@ setup(
     , author='sebastian'
     , author_email='oxsoftdev@gmail.com'
     , packages=find_packages()
-    , url='https://github.com/oxsoftdev/design-patterns-py'
+    , url='https://github.com/oxsoftdev/dppy'
     , license='LICENSE.txt'
 )
 
